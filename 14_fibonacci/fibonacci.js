@@ -12,10 +12,6 @@ const fibonacci = function(n) {
         [cur, prev] = [cur + prev, cur];
     }
     return cur;
-
-
-    
-
 };
 
 // Do not edit below this line
